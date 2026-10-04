@@ -9,7 +9,7 @@
     <meta itemprop="description" content="{{ site.description|striptags }}">
     <meta itemprop="image" content="{{ url(asset('img/communityPicture.png'), {canonical: true}) }}">
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="{{- asset(
+    <link rel="stylesheet" href="{{- url(asset(
                                   ['/css/normalize.css', '/css/fonts.css', '/css/style.css'],
                                   { filename: '/css/style.css'}
-                                 ) -}}">
+                                 )) -}}">
