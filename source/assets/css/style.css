@@ -179,6 +179,7 @@ h1 span {
 
 .photo {
     width: 500px;
+    height: auto;
     float: right;
     box-shadow: 0 4px 6px rgba(0,0,0,.3);
     border: 1px solid lightgray;
