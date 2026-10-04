@@ -17,6 +17,8 @@ jobs:
         uses: actions/checkout@v7
       - name: Build with Cecil
         uses: Cecilapp/Cecil-Action@v4
+        with:
+          options: 'source'
   deploy:
     needs: build
     permissions:
