@@ -4,7 +4,7 @@ title: Locasprint
 ---
 ## Évènement communautaire de traduction : Locasprint
 
-![Locasprint](/img/locasprint.jpg)
+![Locasprint](../static/img/locasprint.jpg)
 
 MozFR organise régulièrement des « Locasprints ». Mais qu’est-ce donc ?
 
@@ -43,7 +43,7 @@ L’adresse des bureaux est le 16 bis boulevard Montmartre, dans le 9ᵉ arrondi
 
 Pour vous y rendre, sortez au métro Grands Boulevards (sortie Musée Grévin), passez devant le musée Grévin et le Hard Rock Café, le bureau se trouvera sur votre droite, derrière une grande porte encadrée par deux colonnes (photo ci-dessous).
 
-![Entrée du bureau Mozilla Paris](/img/mozilla_paris.jpg)
+![Entrée du bureau Mozilla Paris](../static/img/mozilla_paris.jpg)
 
 [Détails supplémentaires sur mozilla.org](https://www.mozilla.org/en-US/contact/spaces/paris/).
 

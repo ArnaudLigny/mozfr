@@ -5,7 +5,7 @@ id: home
 ---
 ## Ensemble, créons un Internet ouvert et indépendant
 
-![Photo de la communauté Mozilla](/img/communaute.jpg){.photo}
+![Photo de la communauté Mozilla](../static/img/communaute.jpg){.photo}
 
 Bienvenue sur le site de la communauté Mozilla francophone, aidez-nous et rejoignez-nous pour promouvoir un internet libre et ouvert à tous !
 
