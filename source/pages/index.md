@@ -17,8 +17,8 @@ La communauté des bénévoles francophones a un spectre d’activité très lar
 
 Si participer à modeler un Web plus juste, plus intéressant et au service de l’utilisateur vous intéresse, si vous voulez œuvrer à ce que le plus de monde possible soit acteur et créateur sur internet et pas seulement des consommateurs passifs, alors peut-être envisagerez-vous de nous rejoindre et créer avec nous l’internet de demain.
 
-Si vous voulez en savoir plus sur les principes qui régissent le projet Mozilla, nous vous invitons à lire le [Manifeste de Mozilla](/manifesto) que nous avons traduit ici.
+Si vous voulez en savoir plus sur les principes qui régissent le projet Mozilla, nous vous invitons à lire le [Manifeste de Mozilla](manifesto) que nous avons traduit ici.
 
-Si vous êtes convaincu et désirez nous rejoindre et faire bouger le Web avec nous, consultez notre page [Participer](/participer) qui est une liste partielle de nos activités en cours. N’hésitez-pas à nous proposer d’autres activités cohérentes avec la vision de Mozilla que nous ne couvririons pas déjà, nous sommes friands de toute initiative originale !
+Si vous êtes convaincu et désirez nous rejoindre et faire bouger le Web avec nous, consultez notre page [Participer](participer) qui est une liste partielle de nos activités en cours. N’hésitez-pas à nous proposer d’autres activités cohérentes avec la vision de Mozilla que nous ne couvririons pas déjà, nous sommes friands de toute initiative originale !
 
 ***À bientôt !***
